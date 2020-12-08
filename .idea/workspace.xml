@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52ea8328-cfee-4f4c-9b1f-b3e059d5a1c5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hXWCSQYbzXBEyAjvn2rlCfuI3X" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="RedisTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisSentinelFailoverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.RedisSentinelFailoverTest" />
+      <module name="RedisTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RedisSentinelFailoverTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52ea8328-cfee-4f4c-9b1f-b3e059d5a1c5" name="Default Changelist" comment="" />
+      <created>1600157789067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600157789067</updated>
+      <workItem from="1600157790259" duration="304000" />
+      <workItem from="1600158113785" duration="2415000" />
+      <workItem from="1600175839387" duration="219000" />
+      <workItem from="1600311911487" duration="119000" />
+      <workItem from="1600333995319" duration="1312000" />
+      <workItem from="1600340096939" duration="6050000" />
+      <workItem from="1600348694039" duration="2163000" />
+      <workItem from="1600393935170" duration="1521000" />
+      <workItem from="1600409766304" duration="24000" />
+      <workItem from="1600669660841" duration="1533000" />
+      <workItem from="1600689438225" duration="16000" />
+      <workItem from="1601018777959" duration="3000" />
+      <workItem from="1601278389030" duration="1855000" />
+      <workItem from="1601280334460" duration="13000" />
+      <workItem from="1601362074120" duration="58000" />
+      <workItem from="1601611642659" duration="9000" />
+      <workItem from="1602577451373" duration="229000" />
+      <workItem from="1603952910263" duration="10000" />
+      <workItem from="1603957136233" duration="159000" />
+      <workItem from="1604499090558" duration="4000" />
+      <workItem from="1607426688605" duration="5995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
